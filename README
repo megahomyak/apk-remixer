@@ -1,1 +1,7 @@
 A small Termux script that takes an APK and makes one with a random package name and a higher target SDK version
+
+USAGE:
+
+./apk-remixer.sh file.apk
+
+-- produces file.apk.remixed.apk
